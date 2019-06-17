@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>webä½œä¸š8</title>
+	<title>web×÷Òµ8</title>
 	<meta charset="utf-8">
 	<style type="text/css">
 		body{margin-top:0px;
@@ -74,7 +74,7 @@
 						color:#000000;}
 
 		#lead ul div:hover{border-bottom: solid 4px green;}
-		#banner{background-image: url(æ‰€éœ€å°å›¾/banner.png);
+		#banner{background-image: url(ËùĞèĞ¡Í¼/banner.png);
 			background-repeat: no-repeat;
 			background-position: 0px 0px;
 			height: 671px;}
@@ -120,35 +120,35 @@
 					border:solid 1px #878787;
 					margin-top: 33px;}
 		#center1 #img1{margin-left: 10px;
-					   background-image: url(æ‰€éœ€å°å›¾/img1.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img1.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img2{margin-left: 30px;
-					   background-image: url(æ‰€éœ€å°å›¾/img2.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img2.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img3{margin-left: 30px;
-					   background-image: url(æ‰€éœ€å°å›¾/img3.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img3.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img4{margin-left: 30px;
-					   background-image: url(æ‰€éœ€å°å›¾/img4.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img4.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img5{margin-left: 10px;
-					   background-image: url(æ‰€éœ€å°å›¾/img5.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img5.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img6{margin-left: 30px;
-	   				   background-image: url(æ‰€éœ€å°å›¾/img6.png);			
+	   				   background-image: url(ËùĞèĞ¡Í¼/img6.png);			
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img7{margin-left: 30px;
-					   background-image: url(æ‰€éœ€å°å›¾/img7.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img7.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 	   #center1 #img8{margin-left: 30px;
-					   background-image: url(æ‰€éœ€å°å›¾/img8.png);
+					   background-image: url(ËùĞèĞ¡Í¼/img8.png);
 					   background-repeat: no-repeat;
 					   background-position:center;}
 		#center1 .f .g{width: 270px;
@@ -197,163 +197,159 @@
 </head>
 <body>
 	<div id="head">
-		<p>å˜¿ï¼Œæ¬¢è¿æ¥ä¹°çŒœå•†åŸï¼</p>
-		<a href="#" class="a">è¯·ç™»å½•</a>
-		<a href="#" class="a">å…è´¹æ³¨å†Œ</a>
-		<a href="#" class="b">
-			æˆ‘çš„è®¢å• <img src="æ‰€éœ€å°å›¾/ä¸‰è§’.png">
-		</a>
-		<a href="#" class="b">
-			æˆ‘çš„ä¹°çŒœ <img src="æ‰€éœ€å°å›¾/ä¸‰è§’.png">
-		</a>
-		<a href="#" id="help">å¸®åŠ©ä¸­å¿ƒ</a>	
+		<p>ºÙ£¬»¶Ó­À´Âò²ÂÉÌ³Ç£¡</p>
+		<a href="#" class="a">ÇëµÇÂ¼</a>
+		<a href="#" class="a">Ãâ·Ñ×¢²á</a>
+		<a href="#" class="b">ÎÒµÄ¶©µ¥</a>
+		<a href="#" class="b">ÎÒµÄÂò²Â</a>
+		<a href="#" id="help">°ïÖúÖĞĞÄ</a>	
 		<a href="#" id="wb">
-			<img src="æ‰€éœ€å°å›¾/wb(1).png">
+			<img src="ËùĞèĞ¡Í¼/wb(1).png">
 		</a>
 		<a href="#" id="wx">
-			<img src="æ‰€éœ€å°å›¾/wx(1).png">
+			<img src="ËùĞèĞ¡Í¼/wx(1).png">
 		</a>
 		<a href="" id="cart">
-			<img src="æ‰€éœ€å°å›¾/cart.png">
+			<img src="ËùĞèĞ¡Í¼/cart.png">
 		</a>
 		<div id="search">
-			<img src="æ‰€éœ€å°å›¾/search(1).png">
+			<img src="ËùĞèĞ¡Í¼/search(1).png">
 		</div>
-		<img src="æ‰€éœ€å°å›¾/logo.png" id="logo">
+		<img src="ËùĞèĞ¡Í¼/logo.png" id="logo">
 		<div id="lead">
 			<ul>
-				<div><a href="#">é¦–é¡µ</a></div>
-				<div><a href="#">åé…’</a></div>
-				<div><a href="#">èŒ—èŒ¶</a></div>
-				<div><a href="#">ç‰çŸ³</a></div>
-				<div><a href="#">ä¼‘é—²é£Ÿå“</a></div>
-				<div><a href="#">æ´—æŠ¤ç”¨å“</a></div>
-				<div><a href="#">åœŸç‰¹äº§</a></div>
-				<div><a href="#">ç§¯åˆ†å•†åŸ</a></div>
-				<div><a href="#">æŠ½å¥–æ¸¸æˆ</a></div>
+				<div><a href="#">Ê×Ò³</a></div>
+				<div><a href="#">Ãû¾Æ</a></div>
+				<div><a href="#">Üø²è</a></div>
+				<div><a href="#">ÓñÊ¯</a></div>
+				<div><a href="#">ĞİÏĞÊ³Æ·</a></div>
+				<div><a href="#">Ï´»¤ÓÃÆ·</a></div>
+				<div><a href="#">ÍÁÌØ²ú</a></div>
+				<div><a href="#">»ı·ÖÉÌ³Ç</a></div>
+				<div><a href="#">³é½±ÓÎÏ·</a></div>
 			</ul>
 		</div>
 	</div>
 	<div id="banner">
 		<div id="right">
-			<div><img src="æ‰€éœ€å°å›¾/cart1.png"></div>
-			<div><img src="æ‰€éœ€å°å›¾/qq(1).png"></div>
-			<div><img src="æ‰€éœ€å°å›¾/zuji(1).png"></div>
-			<div><img src="æ‰€éœ€å°å›¾/erweima.png"></div>
-			<div><img src="æ‰€éœ€å°å›¾/gotop.png"></div>
+			<div><img src="ËùĞèĞ¡Í¼/cart1.png"></div>
+			<div><img src="ËùĞèĞ¡Í¼/qq(1).png"></div>
+			<div><img src="ËùĞèĞ¡Í¼/zuji(1).png"></div>
+			<div><img src="ËùĞèĞ¡Í¼/erweima.png"></div>
+			<div><img src="ËùĞèĞ¡Í¼/gotop.png"></div>
 		</div>
 	</div>
-	<a href="#" id="a2">é¦–é¡µ></a>ç‰çŸ³
-	<p id="p1">å…±200ä»¶ç›¸å…³å•†å“</p>
+	<a href="#" id="a2">Ê×Ò³></a>ÓñÊ¯
+	<p id="p1">¹²200¼şÏà¹ØÉÌÆ·</p>
 	<div class="center">
-		<div class="c"><a href="#">ç‰çŸ³</a></div>
-		<a href="#">ç™½ç‰</a>
-		<a href="#">ç¢§ç‰</a>
-		<a href="#">å’Œç”°ç™½ç‰</a>
-		<a href="#" class="d">ç¿¡ç¿ </a>
-		<a href="#">ç»¿æ¾çŸ³</a>
-		<a href="#">å¢¨ç‰</a>
+		<div class="c"><a href="#">ÓñÊ¯</a></div>
+		<a href="#">°×Óñ</a>
+		<a href="#">±ÌÓñ</a>
+		<a href="#">ºÍÌï°×Óñ</a>
+		<a href="#" class="d">ôä´ä</a>
+		<a href="#">ÂÌËÉÊ¯</a>
+		<a href="#">Ä«Óñ</a>
 	</div>
 	<div class="center">
-	    <div class="c"><a href="#">å…¶ä»–</a></div>
-		<a href="#" class="d">åŠå </a>
-		<a href="#">æ‰³æŒ‡</a>
-		<a href="#">æ‰‹é•¯</a>
+	    <div class="c"><a href="#">ÆäËû</a></div>
+		<a href="#" class="d">µõ×¹</a>
+		<a href="#">°âÖ¸</a>
+		<a href="#">ÊÖïí</a>
 	</div>
 	<div class="center">
-		<div class="c"><a href="#">åœ°åŒº</a></div>
-		<a href="#">åŒ—äº¬</a>
-		<a href="#">å®‰å¾½</a>
-		<a href="#">ç¦å»º</a>
-		<a href="#">å†…è’™å¤</a>
-		<a href="#">å®å¤</a>
-		<a href="#">é»‘é¾™æ±Ÿ</a>
-		<a href="#">æ²³åŒ—</a>
-		<a href="#">æ›´å¤š</a>
+		<div class="c"><a href="#">µØÇø</a></div>
+		<a href="#">±±¾©</a>
+		<a href="#">°²»Õ</a>
+		<a href="#">¸£½¨</a>
+		<a href="#">ÄÚÃÉ¹Å</a>
+		<a href="#">ÄşÏÄ</a>
+		<a href="#">ºÚÁú½­</a>
+		<a href="#">ºÓ±±</a>
+		<a href="#">¸ü¶à</a>
 	</div>
 	<div id="center1">
 		<a href="#">
 			<div class="f" id="img1">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   399.00</br>ç¿¡ç¿ åƒæ‰‹è§‚éŸ³åŠå </p>
+					<p>¾º²Â¼Û£º£¤   399.00</br>ôä´äÇ§ÊÖ¹ÛÒôµõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img2">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   1980.00</br>ç¿¡ç¿ é¾™å‡¤åŠå </p>
+					<p>¾º²Â¼Û£º£¤   1980.00</br>ôä´äÁú·ïµõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img3"> 
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   199.00</br>ç¿¡ç¿ èŠ±è•ŠåŠå </p>
+					<p>¾º²Â¼Û£º£¤   199.00</br>ôä´ä»¨Èïµõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img4">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   199.00</br>ç¿¡ç¿ å¦‚æ„åŠå </p>
+					<p>¾º²Â¼Û£º£¤   199.00</br>ôä´äÈçÒâµõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img5">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   99.00</br>ç¿¡ç¿ å©µåŠå </p>
+					<p>¾º²Â¼Û£º£¤   99.00</br>ôä´äæ¿µõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img6">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   99.00</br>ç¿¡ç¿ è§‚éŸ³(æµ…è‰²)åŠå </p>
+					<p>¾º²Â¼Û£º£¤   99.00</br>ôä´ä¹ÛÒô(Ç³É«)µõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img7">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   199.00</br>ç¿¡ç¿ å¹³å®‰æ‰£(æ·±è‰²)åŠå </p>
+					<p>¾º²Â¼Û£º£¤   199.00</br>ôä´äÆ½°²¿Û(ÉîÉ«)µõ×¹</p>
 				</div>
 			</div>
 		</a>
 		<a href="#">
 			<div class="f" id="img8">
 				<div class="g">
-					<p>ç«çŒœä»·ï¼šÂ¥   199.00</br>ç¿¡ç¿ å¦‚æ„åŠå </p>
+					<p>¾º²Â¼Û£º£¤   199.00</br>ôä´äÈçÒâµõ×¹</p>
 				</div>
 			</div>
 		</a>
 	</div>
 	<div id="foot">
 		<div id="f1" class="bottom1">
-			<img src="æ‰€éœ€å°å›¾/f1.png">
-			<p class="p3">èµ„è´¨è®¤è¯</p></br>
-			<p class="p4">æœåŠ¡å•†100%å®åè®¤è¯</p>
+			<img src="ËùĞèĞ¡Í¼/f1.png">
+			<p class="p3">×ÊÖÊÈÏÖ¤</p></br>
+			<p class="p4">·şÎñÉÌ100%ÊµÃûÈÏÖ¤</p>
 		</div>
 		<div class="bottom1">
-			<img src="æ‰€éœ€å°å›¾/f2.png">
-			<p class="p3">æ”¯ä»˜å®‰å…¨</p></br>
-			<p class="p4">æ˜ç æ ‡ä»·æ”¯ä»˜åŠä¿¡æ¯å®‰å…¨</p>
+			<img src="ËùĞèĞ¡Í¼/f2.png">
+			<p class="p3">Ö§¸¶°²È«</p></br>
+			<p class="p4">Ã÷Âë±ê¼ÛÖ§¸¶¼°ĞÅÏ¢°²È«</p>
 		</div>
 		<div class="bottom1">
-			<img src="æ‰€éœ€å°å›¾/f3.png">
-			<p class="p3">ä¿é™©èµ”ä»˜</p></br>
-			<p class="p4">ä¸ºæ‚¨æä¾›æ‹…ä¿èµ”ä»˜</p>
+			<img src="ËùĞèĞ¡Í¼/f3.png">
+			<p class="p3">±£ÏÕÅâ¸¶</p></br>
+			<p class="p4">ÎªÄúÌá¹©µ£±£Åâ¸¶</p>
 		</div>
 		<div class="bottom1">
-			<img src="æ‰€éœ€å°å›¾/f4.png">
-			<p class="p3">å”®åæ— å¿§</p></br>
-			<p class="p4">æœåŠ¡å‡ºé—®é¢˜ç»ç†å…¨ç¨‹è·Ÿè¿›</p>
+			<img src="ËùĞèĞ¡Í¼/f4.png">
+			<p class="p3">ÊÛºóÎŞÓÇ</p></br>
+			<p class="p4">·şÎñ³öÎÊÌâ¾­ÀíÈ«³Ì¸ú½ø</p>
 		</div>
 	</div>
 	<div id="bottom">
-		<p id="p5">é¦–é¡µ   |   å·¥å•†ä»£ç†   |   è´¢åŠ¡ä»£è®°è´¦   |   è‚¡æƒäº¤æ˜“ä¸å˜æ›´   |   ä¼ä¸šè´·æ¬¾   |   åŠå…¬å®¤ç§Ÿèµ </p>
-		<p id="p6">Â© 2017-2018 ä¹°çŒœå•†åŸæœ‰é™å…¬å¸ ç‰ˆæƒæ‰€æœ‰</p>
+		<p id="p5">Ê×Ò³   |   ¹¤ÉÌ´úÀí   |   ²ÆÎñ´ú¼ÇÕË   |   ¹ÉÈ¨½»Ò×Óë±ä¸ü   |   ÆóÒµ´û¿î   |   °ì¹«ÊÒ×âÁŞ </p>
+		<p id="p6">? 2017-2018 Âò²ÂÉÌ³ÇÓĞÏŞ¹«Ë¾ °æÈ¨ËùÓĞ</p>
 	</div>
 </body>
 </html>
